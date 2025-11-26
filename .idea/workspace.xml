@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="47010cae-58cc-4234-92c1-8b161b0db1ff" name="更改" comment="feat: 更新">
       <change beforePath="$PROJECT_DIR$/.github/workflows/signin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/signin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +90,7 @@
       <updated>1764067064240</updated>
       <workItem from="1764067065568" duration="2546000" />
       <workItem from="1764120880647" duration="99000" />
-      <workItem from="1764156137682" duration="2135000" />
+      <workItem from="1764156137682" duration="2255000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 更新">
       <option name="closed" value="true" />
@@ -98,7 +100,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764158241729</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: 更新">
+      <option name="closed" value="true" />
+      <created>1764158408427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764158408427</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: 更新">
+      <option name="closed" value="true" />
+      <created>1764158425282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764158425282</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
