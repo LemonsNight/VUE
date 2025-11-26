@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47010cae-58cc-4234-92c1-8b161b0db1ff" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/signin.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cron.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-router.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/src/style/common.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/src/style/common.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/src/style/math.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/src/style/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/src/style/reset.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/src/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/自定义指令-图片未显示/vue.config.js" beforeDir="false" />
+    <list default="true" id="47010cae-58cc-4234-92c1-8b161b0db1ff" name="更改" comment="feat: 更新">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/signin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/signin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,11 +88,35 @@
       <updated>1764067064240</updated>
       <workItem from="1764067065568" duration="2546000" />
       <workItem from="1764120880647" duration="99000" />
-      <workItem from="1764156137682" duration="1980000" />
+      <workItem from="1764156137682" duration="2135000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 更新">
+      <option name="closed" value="true" />
+      <created>1764158241729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764158241729</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 更新" />
   </component>
 </project>

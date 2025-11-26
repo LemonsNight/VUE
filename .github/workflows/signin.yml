@@ -2,9 +2,9 @@ name: 每日自动签到
 
 on:
   schedule:
-    # 每天 9 点 UTC+8（北京时间）执行
-    - cron: '0 1 * * *'  # UTC 时间 1 点 = 北京时间 9 点
-  workflow_dispatch: # 手动触发
+    # 每天 9 点北京时间执行（UTC+8 → UTC 1 点）
+    - cron: '0 1 * * *'
+  workflow_dispatch: # 可手动触发
 
 jobs:
   sign:
@@ -19,8 +19,13 @@ jobs:
         with:
           node-version: "18"
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8 # 或你希望的 pnpm 版本
+
       - name: Install dependencies
-        run: npm install node-fetch
+        run: pnpm install
 
       - name: Run Komoe Signin
         env:
