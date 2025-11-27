@@ -1,4 +1,4 @@
-name: Schedule Test Every Minute
+name: Test Schedule Immediate
 
 on:
   schedule:
@@ -15,4 +15,6 @@ jobs:
 
       - name: Print Timestamp
         run: |
+          echo "=============================="
           echo "Workflow triggered at $(date)"
+          echo "=============================="
