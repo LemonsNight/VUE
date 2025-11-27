@@ -1,0 +1,18 @@
+name: Schedule Test Every Minute
+
+on:
+  schedule:
+    - cron: "*/1 * * * *"  # 每分钟触发一次
+  workflow_dispatch:       # 支持手动触发
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Print Timestamp
+        run: |
+          echo "Workflow triggered at $(date)"
