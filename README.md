@@ -17,7 +17,7 @@
 2. 克隆项目仓库
 
 ```bash
-git clone https://github.com/your-username/komoe-signin.git
+git clone https://github.com/LemonsNight/uma-auto-signin.git
 cd komoe-signin
 ```
 
